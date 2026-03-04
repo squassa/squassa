@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá! Me chamo Gabriel.
 
-<!--
-**squassa/squassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do 4º ano de **Ciência da Computação** na Universidade Estadual Paulista (UNESP)  
 
-Here are some ideas to get you started:
+💻 Temas que são de meu interesse:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Engenharia de Software
+- Desenvolvimento de Jogos
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/gabriel-natalicio/
+- Email: gabriel.squassoni@gmail.com
